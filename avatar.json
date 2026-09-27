@@ -1,0 +1,28 @@
+{
+  "name": "红发角色 · 原图还原版",
+  "description": "按原始三视图测量轮廓并投射原图材质的可转动 Figura 模型。",
+  "autoScripts": [
+    "script"
+  ],
+  "color": "d34855",
+  "customizations": {
+    "model.Head": {
+      "parentType": "Head"
+    },
+    "model.Body": {
+      "parentType": "Body"
+    },
+    "model.RightArm": {
+      "parentType": "RightArm"
+    },
+    "model.LeftArm": {
+      "parentType": "LeftArm"
+    },
+    "model.RightLeg": {
+      "parentType": "RightLeg"
+    },
+    "model.LeftLeg": {
+      "parentType": "LeftLeg"
+    }
+  }
+}
